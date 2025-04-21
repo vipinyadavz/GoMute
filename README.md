@@ -4,8 +4,7 @@ A privacy-conscious social platform to share thoughts and opinions freely.
 
 ## 🔥 Overview
 
-**GoMute** is a modern, community-driven social media platform where users can post their thoughts ("Opinions"), join communities, interact through replies, and find like-minded individuals. Inspired by platforms like Threads and Twitter, it features a sleek UI, real-time interactions, and secure authentication.
-
+**GoMute** is a modern, community-driven social media platform where users can post their thoughts ("Opinions"), join communities, interact through replies, and find like-minded individuals. 
 ---
 
 ## ✨ Features

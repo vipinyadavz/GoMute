@@ -31,8 +31,6 @@ A privacy-conscious social platform to share thoughts and opinions freely.
 | **Mongoose**    | ODM for MongoDB                |
 | **TailwindCSS** | Utility-first styling          |
 | **Clerk**       | Auth provider                  |
-| **UploadThing** | File/Image upload utility      |
-| **Shadcn UI**   | UI components                  |
 
 ---
 
